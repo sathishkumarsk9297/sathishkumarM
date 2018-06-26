@@ -15,9 +15,9 @@ public class Prime {
 					break;
 				}}
 				if(flag==0) {
-					System.out.println("Prime");
+				    System.out.println("Yes");
 				}else
-                System.out.println("Not Prime");
+                                    System.out.println("No");
 
 				}
 		}
