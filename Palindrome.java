@@ -15,9 +15,9 @@ public static void main(String[] args) {
        
 	}
 	if(b==sum)
-	System.out.println("Palindrome");
+	System.out.println("Yes");
 	else {
-		System.out.println("Not a Palindrome");
+		System.out.println("No");
 	}
 }
 }
